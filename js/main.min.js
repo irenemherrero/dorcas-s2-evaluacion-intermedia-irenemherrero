@@ -1,14 +1,14 @@
 'use strict';
 
-function getRandomNumber(max){
-  return Math.ceil(Math.random() * max);
-}
 var button = document.querySelector('.boton-prueba');
 var consoleNumber = getRandomNumber(100);
 var espacioFeedback = document.querySelector(".espacio-feedback");
-console.log(consoleNumber);
 var contadorIntentos = document.querySelector (".contador-intentos");
 var contador = 0;
+
+function getRandomNumber(max){
+  return Math.ceil(Math.random() * max);
+}
 
 function sumContador(){
   contadorIntentos.innerHTML = contador;
