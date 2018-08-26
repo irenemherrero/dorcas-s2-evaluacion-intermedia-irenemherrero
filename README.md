@@ -1,4 +1,4 @@
-Ejercicio de evaluación intermedia de Adalab (Sprint 2)
+Evaluación intermedia - Sprint 2 - Pokedex
 -------------------------------------------------------
 
 
