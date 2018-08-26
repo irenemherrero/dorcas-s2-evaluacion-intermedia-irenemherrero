@@ -1,4 +1,4 @@
-Evaluación intermedia - Sprint 2 - Pokedex
+Evaluación intermedia - Sprint 2 - Juego de números
 -------------------------------------------------------
 
 
